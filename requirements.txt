@@ -1,7 +1,6 @@
-flask
-torch
+streamlit
 ultralytics
+torch
 opencv-python
-pillow
 numpy
-gunicorn
+pillow
