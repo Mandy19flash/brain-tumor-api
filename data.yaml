@@ -1,0 +1,12 @@
+path: brain_tumor_dataset
+
+train: Train/images
+val: Val/images
+
+nc: 4
+
+names:
+  0: glioma
+  1: meningioma
+  2: no_tumor
+  3: pituitary

@@ -1,0 +1,22 @@
+# ===== Python virtual environments =====
+yolo-env/
+yolo-gpu/
+
+# ===== YOLO / training outputs =====
+runs/
+predictions/
+
+# ===== Datasets =====
+brain_tumor_dataset/
+
+# ===== YOLO configs & weights =====
+yolov8n.pt
+yolo26n.pt
+
+# ===== Python cache =====
+__pycache__/
+*.pyc
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
